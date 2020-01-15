@@ -1,6 +1,6 @@
 package com.in28minutes.learning.java.jpain10steps;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
